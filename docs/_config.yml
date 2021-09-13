@@ -34,7 +34,7 @@ timezone: Asia/Shanghai
 ## => Author and Social
 ##############################
 author:
-  type      : organization # "person" (default), "organization"
+  type      : person # "person" (default), "organization"
   name      : TeXt
   url       :
   avatar    : /assets/apple-touch-icon.png
