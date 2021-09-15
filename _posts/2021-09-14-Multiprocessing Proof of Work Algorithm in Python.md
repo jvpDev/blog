@@ -5,7 +5,7 @@ tags: learning coding developing crypto blockchain proofOfWork multiprocessing
 
 So, in the last post I implemented a simple Proof of Work algorithm in Python and I had never paid attention to pytho multiprocessing module, so I joined this two!
 
-The intention is to have multiple workers trying to solve the job, arriving to a solution faster than a single worker.
+As the difficulty level of PoW rises, it take longer to find a solution. The intention is to have multiple workers trying to solve the job, arriving to a solution faster than a single worker.
 
 It's my first time implementing a multiprocessing algorithm in python, so, as expected, I am not satisfied with the result. The performance was not significantly better, so it has a lot to improve.
 
