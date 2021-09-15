@@ -3,7 +3,7 @@ title: Learn Everyday
 tags: learning coding developing
 ---
 
-So, I made a chalenge with myself to learn a new thing every day, starting from today!
+So, I made a challenge with myself to learn a new thing every day, starting from today!
 
 For now, I don't plan to do a make a study guide, planner or something like that. I'll just try to learn about a new topic
 that I'm interested in that day.
