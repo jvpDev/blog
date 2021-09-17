@@ -7,7 +7,7 @@ So, I've been interested in crypto/blockchain these days and today I decided to 
 
 To keep as simple as possible, I chose sha256 as the hash function. The difficulty level corresponds to the number of zeroes that the start of the hash must have, so increasing it will make the algorithm take a longer time to find a valid hash. Difficulty level above 4 can be very slow, so watch out.
 
-The solution attemps are made with a nonce value that is appended to the string. The appended string is hashed and it's evaluated. If is valid, you found your hash! If not valid, the nonce value is incremented, repeating the process.
+The solution attempts are made with a nonce value that is appended to the string. The appended string is hashed and it's evaluated. If is valid, you found your hash! If not valid, the nonce value is incremented, repeating the process.
 
 
 All this, of course, implemented in python.
