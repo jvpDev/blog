@@ -3,7 +3,7 @@ title: Multiprocessing Proof of Work Algorithm in Python
 tags: learning coding developing crypto blockchain proofOfWork multiprocessing
 ---
 
-So, in the last post I implemented a simple Proof of Work algorithm in Python and I had never paid attention to pytho multiprocessing module, so I joined this two!
+So, in the last post I implemented a simple Proof of Work algorithm in Python and I had never paid attention to python multiprocessing module, so I joined this two!
 
 As the difficulty level of PoW rises, it take longer to find a solution. The intention is to have multiple workers trying to solve the job, arriving to a solution faster than a single worker.
 
